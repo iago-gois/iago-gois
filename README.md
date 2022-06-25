@@ -1,6 +1,6 @@
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/snowymonkey/93cb63e76b0b8374bc552840f1fbc7ca/raw/1282d1178cfdf5e38dc7a98d0f91c3e7697c6978/profile.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Snowy Monkey</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="5px">, I'm Snowy Monkey</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snowymonkey&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
