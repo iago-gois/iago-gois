@@ -29,6 +29,7 @@
 ![](https://img.shields.io/badge/-Communication-yellow?style=for-the-badge)
 ![](https://img.shields.io/badge/-Collaboration%20and%20Teamwork-yellow?style=for-the-badge)
 ![](https://img.shields.io/badge/-Flexibility-yellow?style=for-the-badge)
+<br>
 ![](https://img.shields.io/badge/-Time%20Management-yellow?style=for-the-badge)
 ![](https://img.shields.io/badge/-Critical%20Thinking-yellow?style=for-the-badge)
 
