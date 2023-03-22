@@ -13,7 +13,7 @@
   </a>
 </p>
 
-- 🔥 Full stack Web Dev
+- 🔥 Full Stack Web Dev
 
 - 🧑‍🎓 I’m currently studing at **[@Trybe](https://www.betrybe.com/)** since 11/2022
 
