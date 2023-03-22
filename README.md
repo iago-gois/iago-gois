@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Full stack web developer from Brazil</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dev-iago-gois&color=yellow" alt="Profile views" /> </p>
 <p align="center" style="background:black">
-  <a href="https://github.com/dev-iago-gois" target="_blank">
+  <a href="https://github.com/dev-iago-gois">
     <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="iago-gois github" />
   </a>
-  <a href="https://www.linkedin.com/in/iago-gois/" target="_blank">
+  <a href="https://www.linkedin.com/in/iago-gois/">
     <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="iago-gois linkedin" />
   </a>
-  <a href="href="mailto:iagorafaelbg@gmail.com"" target="blank">
+  <a href="href="mailto:iagorafaelbg@gmail.com"
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="iago-gois email" />
   </a>
 </p>
@@ -69,13 +69,13 @@
 
 
 <p align="left" style="background:black">
-  <a href="https://github.com/dev-iago-gois" target="blank">
+  <a href="https://github.com/dev-iago-gois">
     <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="iago-gois github" />
   </a>
-  <a href="https://www.linkedin.com/in/iago-gois/" target="blank">
+  <a href="https://www.linkedin.com/in/iago-gois/">
     <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="iago-gois linkedin" />
   </a>
-  <a href="href="mailto:iagorafaelbg@gmail.com"" target="blank">
+  <a href="href="mailto:iagorafaelbg@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="iago-gois email" />
   </a>
 </p>
