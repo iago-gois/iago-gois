@@ -1,78 +1,81 @@
-
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/snowymonkey/93cb63e76b0b8374bc552840f1fbc7ca/raw/1282d1178cfdf5e38dc7a98d0f91c3e7697c6978/profile.svg"/>
-<h1 align="left">Hi 👋, I'm Snowy Monkey</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-iago-gois&color=yellow" alt="Profile views" /> </p>
-
-- 🔥 Fullstack Web Dev student since 01/2022
-
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
-
-- 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev)
-
-- ▶️ I regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
-
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
-
-- ⚡ Fun fact **Oneye 😜**
-
-<br><br>
-
-## 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=snowymonkey&show_icons=true&theme=gruvbox" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowymonkey&layout=compact&theme=gruvbox" alt="maykbrito's most languages"/>
+<h1 align="center">Hi 👋, I'm Dev Iago Gois</h1>
+<h3 align="center">A passionate Full stack web developer from Brazil</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dev-iago-gois&color=yellow" alt="Profile views" /> </p>
+<p align="center" style="background:black">
+  <a href="https://github.com/dev-iago-gois" target="blank">
+    <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="iago-gois github" />
+  </a>
+  <a href="https://www.linkedin.com/in/iago-gois/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="iago-gois linkedin" />
+  </a>
+  <a href="href="mailto:iagorafaelbg@gmail.com"" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="iago-gois email" />
+  </a>
 </p>
 
+- 🔥 Full stack Web Dev
+
+- 🧑‍🎓 I’m currently studing at **[@Trybe](https://www.betrybe.com/)** since 11/2022
+
+- 👨‍💻 All of my projects are available at my **[🌐 Portfolio](https://dev-iago-gois.github.io/)**
+
+- 💬 Ask me about **HTML, CSS, JS ES6, REACT, Node.JS**
+
+- ⚡ Fun fact **I have a degree in civil engineering 👷**
+
 <br><br>
 
-## &nbsp;Social Media Links
+## 🧠 &nbsp;Soft Skills
+![](https://img.shields.io/badge/-Communication-yellow?style=for-the-badge)
+![](https://img.shields.io/badge/-Collaboration%20and%20Teamwork-yellow?style=for-the-badge)
+![](https://img.shields.io/badge/-Flexibility-yellow?style=for-the-badge)
+![](https://img.shields.io/badge/-Time%20Management-yellow?style=for-the-badge)
+![](https://img.shields.io/badge/-Critical%20Thinking-yellow?style=for-the-badge)
+
+## 💻 &nbsp;Hard Skills
+#### Languages
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+#### Frameworks, Platforms and Libraries
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+#### Testing
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+#### Other Stack Skills
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+<br><br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-iago-gois&layout=compact&theme=great-gatsby" alt="most used languages"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-iago-gois&show_icons=true&theme=great-gatsby" alt="personal stats"/>
+</p>
+
+
+<br><br>
+
+### &nbsp;Social Media Links
+
+
 
 <p align="left" style="background:black">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
+  <a href="https://github.com/dev-iago-gois" target="blank">
+    <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="iago-gois github" />
+  </a>
+  <a href="https://www.linkedin.com/in/iago-gois/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="iago-gois linkedin" />
+  </a>
+  <a href="href="mailto:iagorafaelbg@gmail.com"" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="iago-gois email" />
+  </a>
 </p>
-
-<!--
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
