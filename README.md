@@ -9,7 +9,7 @@
     <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="iago-gois linkedin" />
   </a>
   <a href="mailto:iagorafaelbg@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-iagorafaelbg@gmail.com-lightgrey?style=flat&logo=gmail&logoColor=white&labelColor=D14836" alt="iago-gois email" />
+    <img align="center" src="https://img.shields.io/badge/Gmail-iagorafaelbg@gmail.com-393d42?style=flat&logo=gmail&logoColor=white&labelColor=D14836" alt="iago-gois email" />
   </a>
 </p>
 
@@ -78,6 +78,6 @@
     <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="iago-gois linkedin" />
   </a>
   <a href="mailto:iagorafaelbg@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="iago-gois email" />
+    <img align="center" src="https://img.shields.io/badge/Gmail-iagorafaelbg@gmail.com-393d42?style=flat&logo=gmail&logoColor=white&labelColor=D14836" alt="iago-gois email" />
   </a>
 </p>
