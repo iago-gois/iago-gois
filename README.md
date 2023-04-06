@@ -17,7 +17,7 @@
 
 - 🧑‍🎓 I’m currently studing at **[@Trybe](https://www.betrybe.com/)** since 11/2022
 
-- 👨‍💻 All of my projects are available at my **[🌐 Portfolio](https://dev-iago-gois.github.io/)**
+- 👨‍💻 All of my projects are available at my **[🌐 Portfolio](https://dev-iago-gs.github.io/)**
 
 - 💬 Ask me about **HTML, CSS, JS ES6, REACT, Node.JS**
 
