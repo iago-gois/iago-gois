@@ -15,11 +15,13 @@
 
 - 🔥 Full Stack Web Dev
 
-- 🧑‍🎓 I’m currently studing at **[@Trybe](https://www.betrybe.com/)** since 11/2022
+- 💻 I’m currently working at **[@CG Contadores](https://cgcontadores.com.br/)** as a Web Developer since 10/2023.
 
-- 👨‍💻 All of my projects are available at my **[🌐 Portfolio](https://dev-iago-gs.github.io/)**
+- 🧑‍🎓 I studied at **[@Trybe](https://www.betrybe.com/)** from 11/2022 to 12/2023. **Class-29**.
 
-- 💬 Ask me about **HTML, CSS, JS ES6, REACT, Node.JS**
+<!-- - 👨‍💻 All of my projects are available at my **[🌐 Portfolio](https://dev-iago-gs.github.io/)** -->
+
+- 💬 Ask me about **TypeScript, Node.JS, PHP, Laravel**
 
 - ⚡ Fun fact **I have a degree in civil engineering 👷**
 
