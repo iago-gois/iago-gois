@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dev Iago Gois</h1>
+<h1 align="center">Hi 👋, I'm Iago Gois</h1>
 <h3 align="center">A passionate Full stack web developer from Brazil</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dev-iago-gois&color=yellow" alt="Profile views" /> </p>
 <p align="center" style="background:black">
