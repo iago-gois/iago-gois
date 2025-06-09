@@ -81,7 +81,7 @@
 
 
 <p align="left" style="background:black">
-  <a href="https://github.com/dev-iago-gois">
+  <a href="https://github.com/iago-gois">
     <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="iago-gois github" />
   </a>
   <a href="https://www.linkedin.com/in/iago-gois/">
