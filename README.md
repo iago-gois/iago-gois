@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact **I have a degree in civil engineering 👷**
 
-<br><br>
+<br>
 
 ## 🧠 &nbsp;Soft Skills
 ![](https://img.shields.io/badge/-Communication-yellow?style=for-the-badge)
