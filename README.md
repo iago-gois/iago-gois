@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Iago Gois</h1>
 <h3 align="center">A passionate Full stack web developer from Brazil</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dev-iago-gois&color=yellow" alt="Profile views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=iago-gois&color=yellow" alt="Profile views" /> </p>
 <p align="center" style="background:black">
-  <a href="https://github.com/dev-iago-gois">
+  <a href="https://github.com/iago-gois">
     <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="iago-gois github" />
   </a>
   <a href="https://www.linkedin.com/in/iago-gois/">
@@ -19,7 +19,7 @@
 
 - 🧑‍🎓 I studied at **[@Trybe](https://www.betrybe.com/)** from 11/2022 to 12/2023. **Class-29**.
 
-<!-- - 👨‍💻 All of my projects are available at my **[🌐 Portfolio](https://dev-iago-gs.github.io/)** -->
+<!-- - 👨‍💻 All of my projects are available at my **[🌐 Portfolio](https://iago-gs.github.io/)** -->
 
 - 💬 Ask me about **TypeScript, Node.JS, PHP, Laravel**
 
@@ -68,9 +68,9 @@
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-iago-gois&layout=compact&theme=great-gatsby" alt="most used languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago-gois&layout=compact&theme=great-gatsby" alt="most used languages"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-iago-gois&show_icons=true&theme=great-gatsby" alt="personal stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iago-gois&show_icons=true&theme=great-gatsby" alt="personal stats"/>
 </p>
 
 
